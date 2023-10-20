@@ -1,0 +1,5 @@
+outs:
+- md5: 8810f920787b0970fdcd85c2f646b742
+  size: 1345069
+  hash: md5
+  path: airbnb2.csv
